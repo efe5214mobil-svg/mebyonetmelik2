@@ -1,5 +1,5 @@
-protobuf==4.25.3
-grpcio==1.62.1
+protobuf
+grpcio
 streamlit
 langchain
 langchain-community
@@ -8,4 +8,3 @@ langchain-text-splitters
 chromadb
 sentence-transformers
 groq
-pysqlite3-binary
